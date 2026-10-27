@@ -2,6 +2,8 @@ module github.com/upbound/provider-vault
 
 go 1.23.8
 
+toolchain go1.26.10
+
 require (
 	dario.cat/mergo v1.0.1
 	github.com/crossplane/crossplane-runtime v1.16.0
